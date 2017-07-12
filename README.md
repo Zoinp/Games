@@ -1,4 +1,4 @@
-<h1>Zoinp</h1>
+<h1>Zoinp<img src = "url"></h1>
 <li>What is Zoinp?
 <ul><h5>A space for creative development, input, and ideas</ul>
 <li>What is this?
